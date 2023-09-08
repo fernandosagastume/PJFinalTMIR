@@ -1,5 +1,4 @@
-# PJFinalTMIR
-Proyecto final de TMIR.
+# Proyecto final de TMIR.
 
 ## Objetivo General
 El objetivo General de este proyecto es tomar la narración de un partido de soccer, extraer el script y hacer una estimación de las estadisticas del partido.
