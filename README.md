@@ -3,6 +3,9 @@
 ## Objetivo General
 El objetivo General de este proyecto es tomar la narración de un partido de soccer, extraer el script y hacer una estimación de las estadisticas del partido.
 
+## Link del vídeo
+[Click aquí para ver el vídeo](https://youtu.be/9IzrX_KA6JE)
+
 ## Metodología o estrategia
 1. **Limpieza de Datos:**
 - Se eliminan los timestamps del contenido usando expresiones regulares.
